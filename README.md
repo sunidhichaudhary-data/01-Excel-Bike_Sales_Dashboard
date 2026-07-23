@@ -1,4 +1,10 @@
-# 🚲 Bike Sales Dashboard | Microsoft Excel
+# 🚲 Bike Sales Dashboard 
+
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Dashboard-Analysis-blue?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-green?style=for-the-badge)
+
+---
 
 ## 📖 Project Overview
 
