@@ -165,7 +165,7 @@ This dashboard helps business users:
 ## 📂 Folder Structure
 
 ~~~text
-02-Excel-Bike-Sales-Dashboard
+01-Excel-Bike-Sales-Dashboard
 │
 ├── README.md
 ├── LICENSE
