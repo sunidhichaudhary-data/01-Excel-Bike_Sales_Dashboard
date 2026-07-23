@@ -163,6 +163,7 @@ Bike-Sales-Dashboard/
 ├── Bike Sales Dashboard.xlsx
 ├── images/
 │   ├── dashboard.png
+│   └── bike-sales-dashboard.gif (optional)
 └── LICENSE
 
 ---
