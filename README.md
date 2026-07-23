@@ -162,6 +162,20 @@ This dashboard helps business users:
 
 ---
 
+## 📂 Folder Structure
+
+text
+02-Excel-Bike-Sales-Dashboard
+│
+├── README.md
+├── LICENSE
+├── Dashboard
+│   └── Excel Project - Bike Sales Dashboard.xlsx
+└── Images
+    └── Dashboard.png
+
+---
+
 ## 👩‍💻 Author
 
 **Sunidhi Chaudhary**
