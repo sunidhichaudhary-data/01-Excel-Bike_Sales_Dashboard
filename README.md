@@ -127,9 +127,8 @@ Bike Sales Dashboard.xlsx
 
 ## 📷 Dashboard Preview
 
-```markdown
 ![Bike Sales Dashboard](Images/Dashboard.png)
-```
+
 
 ---
 
