@@ -181,4 +181,3 @@ This dashboard helps business users:
 
 **Sunidhi Chaudhary**
 
-Aspiring Data Analyst | Excel | SQL | Power BI | Python | Azure
