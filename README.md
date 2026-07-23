@@ -164,7 +164,7 @@ This dashboard helps business users:
 
 ## 📂 Folder Structure
 
-text
+~~~text
 02-Excel-Bike-Sales-Dashboard
 │
 ├── README.md
@@ -173,6 +173,7 @@ text
 │   └── Excel Project - Bike Sales Dashboard.xlsx
 └── Images
     └── Dashboard.png
+~~~
 
 ---
 
