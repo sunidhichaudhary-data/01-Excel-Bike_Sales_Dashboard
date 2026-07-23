@@ -156,18 +156,6 @@ This dashboard helps business users:
 - Make data-driven sales decisions
 
 ---
-## 📂 Folder Structure
-
-text
-02-Excel-Bike-Sales-Dashboard
-│
-├── README.md
-├── LICENSE
-├── Dashboard
-│   └── Excel Project - Bike Sales Dashboard.xlsx
-└── Images
-    └── Dashboard.png
----
 
 ## 👩‍💻 Author
 
